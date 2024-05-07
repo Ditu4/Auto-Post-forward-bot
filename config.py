@@ -39,12 +39,12 @@ Sᴜᴘᴘᴏʀᴛs Cᴜsᴛᴏᴍ Bᴜᴛᴛᴏɴ & Mᴜʟᴛɪᴘʟᴇs Pᴏs�
 
     ABOUT_TXT = """<b>
 ➥ ᴍy ɴᴀᴍᴇ : {}
-➥ Pʀᴏɢʀᴀᴍᴇʀ : <a href=https://t.me/Snowball_Official>ѕησωвαℓℓ ❄️</a> 
-➥ ꜰᴏᴜɴᴅᴇʀ ᴏꜰ : <a href=https://t.me/Kdramaland>K-Lᴀɴᴅ</a>
-➥ Lɪʙʀᴀʀy : <a href=https://github.com/pyrogram>Pyʀᴏɢʀᴀᴍ</a>
-➥ Lᴀɴɢᴜᴀɢᴇ: <a href=https://www.python.org>Pyᴛʜᴏɴ 3</a>
-➥ Dᴀᴛᴀ Bᴀꜱᴇ: <a href=https://cloud.mongodb.com>Mᴏɴɢᴏ DB</a>
-➥ ᴍʏ ꜱᴇʀᴠᴇʀ : <a href=https://dashboard.heroku.com>Heroku</a>
+➥ Pʀᴏɢʀᴀᴍᴇʀ : <a href=https://t.me/+7Ft-A0Nl0QE5OTFl>Ditu ❄️</a> 
+➥ ꜰᴏᴜɴᴅᴇʀ ᴏꜰ : <a href=https://t.me/+7Ft-A0Nl0QE5OTFl>Lᴀɴᴅ</a>
+➥ Lɪʙʀᴀʀy : <a href=https://t.me/+7Ft-A0Nl0QE5OTFl>Pyʀᴏɢʀᴀᴍ</a>
+➥ Lᴀɴɢᴜᴀɢᴇ: <a href=https://t.me/+7Ft-A0Nl0QE5OTFl>Pyᴛʜᴏɴ 3</a>
+➥ Dᴀᴛᴀ Bᴀꜱᴇ: <a href=https://t.me/+7Ft-A0Nl0QE5OTFl>Mᴏɴɢᴏ DB</a>
+➥ ᴍʏ ꜱᴇʀᴠᴇʀ : <a href=https://t.me/+7Ft-A0Nl0QE5OTFl>Heroku</a>
 ➥ ᴠᴇʀsɪᴏɴ : v1.0.0
 """
 
