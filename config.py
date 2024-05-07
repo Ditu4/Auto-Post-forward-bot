@@ -51,7 +51,7 @@ Sᴜᴘᴘᴏʀᴛs Cᴜsᴛᴏᴍ Bᴜᴛᴛᴏɴ & Mᴜʟᴛɪᴘʟᴇs Pᴏs�
     HELP_TXT = """
 Tʜɪs Bᴏᴛ Wɪʟʟ Hᴇʟᴘ Yᴏᴜ Tᴏ Sᴇɴᴅ Pᴏsᴛs Tᴏ Yᴏᴜʀ Mᴜʟᴛɪᴘʟᴇ Cʜᴀɴɴᴇʟs
 
-❗ Dᴇᴠᴇʟᴏᴘᴇʀ :- <a href=https://t.me/Snowball_official>ѕησωвαℓℓ ❄️</a>
+❗ Dᴇᴠᴇʟᴏᴘᴇʀ :- <a href=https://t.me/+7Ft-A0Nl0QE5OTFl>Ditu ❄️</a>
 """
 
     STATS_TXT = """
